@@ -1,9 +1,9 @@
 # Hi there, I'm Khubaib Ahmed👋
 
-## 🚀 About Me
+##  About Me
 Passionate developer focused on creating innovative solutions using AI, machine learning, and efficient algorithms. I enjoy building tools that solve real problems and enhance productivity.
 
-## 🛠️ Technologies & Tools
+## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -12,7 +12,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
