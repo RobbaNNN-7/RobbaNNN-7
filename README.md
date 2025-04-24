@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Khubaib Ahmed👋
 
 ## 🚀 About Me
 Passionate developer focused on creating innovative solutions using AI, machine learning, and efficient algorithms. I enjoy building tools that solve real problems and enhance productivity.
@@ -11,7 +11,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 ## 🌟 Featured Projects
 
@@ -21,7 +21,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
     <td width="50%">
       <h3 align="center">UnAI</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/UnAI" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
+        <a href="https://github.com/RobbaNNN-7/UnAI" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
@@ -33,7 +33,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
     <td width="50%">
       <h3 align="center">Moon_Phase_Detection</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/Moon_Phase_Detection" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
+        <a href="https://github.com/RobbaNNN-7/Moon_Phase_Detection" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
@@ -48,7 +48,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
     <td width="50%">
       <h3 align="center">Head-Line-Generator</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/Head-Line-Generator" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
+        <a href="https://github.com/RobbaNNN-7/Head-Line-Generator" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
@@ -61,7 +61,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
     <td width="50%">
       <h3 align="center">TimeTableSchedular</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/TimeTableSchedular" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
+        <a href="https://github.com/RobbaNNN-7/TimeTableSchedular" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
@@ -92,10 +92,3 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
