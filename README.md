@@ -10,6 +10,8 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Langchain]
+![ResNet50]
 
 
 ##  Featured Projects
