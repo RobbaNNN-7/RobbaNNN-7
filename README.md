@@ -9,7 +9,6 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
@@ -22,8 +21,6 @@ Passionate developer focused on creating innovative solutions using AI, machine 
       <h3 align="center">UnAI</h3>
       <div align="center">
         <a href="https://github.com/RobbaNNN-7/UnAI" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -34,8 +31,6 @@ Passionate developer focused on creating innovative solutions using AI, machine 
       <h3 align="center">Moon_Phase_Detection</h3>
       <div align="center">
         <a href="https://github.com/RobbaNNN-7/Moon_Phase_Detection" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
@@ -49,8 +44,6 @@ Passionate developer focused on creating innovative solutions using AI, machine 
       <h3 align="center">Head-Line-Generator</h3>
       <div align="center">
         <a href="https://github.com/RobbaNNN-7/Head-Line-Generator" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -62,8 +55,6 @@ Passionate developer focused on creating innovative solutions using AI, machine 
       <h3 align="center">TimeTableSchedular</h3>
       <div align="center">
         <a href="https://github.com/RobbaNNN-7/TimeTableSchedular" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Demo-FF5700?style=flat-square&logo=youtube&logoColor=white"></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Public-25A162?style=flat-square&logo=checkmarx&logoColor=white"></a>
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -75,20 +66,4 @@ Passionate developer focused on creating innovative solutions using AI, machine 
   </tr>
 </table>
 </div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
-
-
----
 
