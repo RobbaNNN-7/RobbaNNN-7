@@ -14,7 +14,7 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 ![ResNet50]
 
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
