@@ -43,15 +43,15 @@ Passionate developer focused on creating innovative solutions using AI, machine 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Head-Line-Generator</h3>
+      <h3 align="center">Tourism</h3>
       <div align="center">
-        <a href="https://github.com/RobbaNNN-7/Head-Line-Generator" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
+        <a href="https://github.com/RobbaNNN-7/Tourism" target="_blank"><img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"></a>
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/-Stars:_1-FFD700?style=flat-square&logo=star&logoColor=white">
+        <img src="https://img.shields.io/badge/React:_1-FFD700?style=flat-square&logo=star&logoColor=white">
       </p>
-      <p>AI-Powered Headline Generator using Gemini API. Transforms reporter audio into engaging headlines using advanced NLP and audio processing techniques.</p>
+      <p>AI Powered Tousim App With Interactive ChatBotThat Curates Entire Journey Plan With Live FLights Hotels and Restaurants Data.</p>
     </td>
     <td width="50%">
       <h3 align="center">TimeTableSchedular</h3>
