@@ -1,4 +1,4 @@
-# Hi there, I'm Khubaib Ahmed👋
+# Hi there, I'm Khubaib Ahmed
 
 ##  About Me
 Passionate developer focused on creating innovative solutions using AI, machine learning, and efficient algorithms. I enjoy building tools that solve real problems and enhance productivity.
