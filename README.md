@@ -18,9 +18,6 @@ Passionate developer focused on creating innovative solutions using AI, machine 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbaNNN-7&layout=compact&theme=tokyonight)
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -75,3 +72,5 @@ Passionate developer focused on creating innovative solutions using AI, machine 
   </tr>
 </table>
 </div>
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbaNNN-7&layout=compact&theme=tokyonight)
